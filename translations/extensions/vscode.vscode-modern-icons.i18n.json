@@ -1,0 +1,11 @@
+{
+	"": [],
+	"version": "1.0.0",
+	"contents": {
+		"package": {
+			"displayName": "Biểu tượng tệp hiện đại của VS Code",
+			"description": "Chủ đề biểu tượng tệp hiện đại cho Visual Studio Code",
+			"themeLabel": "Biểu tượng hiện đại của VS Code"
+		}
+	}
+}

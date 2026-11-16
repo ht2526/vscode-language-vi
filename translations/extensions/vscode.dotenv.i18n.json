@@ -1,0 +1,10 @@
+{
+	"": [],
+	"version": "1.0.0",
+	"contents": {
+		"package": {
+			"displayName": "Khái niệm cơ bản về ngôn ngữ Dotenv",
+			"description": "Cung cấp tính năng đánh dấu cú pháp và khớp dấu ngoặc trong tệp dotenv."
+		}
+	}
+}

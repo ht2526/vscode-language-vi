@@ -1,0 +1,15 @@
+{
+	"": [
+		"--------------------------------------------------------------------------------------------",
+		"OCaml extension localization for DMCTN Vietnamese Language Pack.",
+		"Target: Cursor 3.1.17 stable.",
+		"--------------------------------------------------------------------------------------------"
+	],
+	"version": "1.0.0",
+	"contents": {
+		"package": {
+			"displayName": "Cơ bản về ngôn ngữ OCaml",
+			"description": "Cung cấp tô sáng cú pháp và khớp ngoặc trong tệp OCaml."
+		}
+	}
+}

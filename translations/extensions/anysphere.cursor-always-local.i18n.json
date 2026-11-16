@@ -1,0 +1,15 @@
+{
+	"": [
+		"--------------------------------------------------------------------------------------------",
+		"Cursor extension localization for DMCTN Vietnamese Language Pack.",
+		"Target: Cursor 3.1.17 stable.",
+		"--------------------------------------------------------------------------------------------"
+	],
+	"version": "1.0.0",
+	"contents": {
+		"package": {
+			"displayName": "Cursor Always Local",
+			"description": "Thử nghiệm tại cursor.sh"
+		}
+	}
+}

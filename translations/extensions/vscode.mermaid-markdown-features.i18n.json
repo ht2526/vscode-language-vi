@@ -1,0 +1,34 @@
+{
+	"": [],
+	"version": "1.0.0",
+	"contents": {
+		"package": {
+			"displayName": "Tính năng đánh dấu nàng tiên cá",
+			"description": "Thêm hỗ trợ sơ đồ Nàng tiên cá vào các cuộc trò chuyện tích hợp, bản xem trước Markdown và sổ ghi chép.",
+			"command.resetPanZoom.title": "Đặt lại Pan và Zoom",
+			"command.openInEditor.title": "Mở sơ đồ trong trình chỉnh sửa",
+			"command.copySource.title": "Sao chép nguồn sơ đồ",
+			"config.title": "Nàng tiên cá",
+			"config.markdown-mermaid.lightModeTheme.description": "Chủ đề Nàng tiên cá mặc định cho chế độ ánh sáng.",
+			"config.markdown-mermaid.darkModeTheme.description": "Chủ đề Nàng tiên cá mặc định cho chế độ tối.",
+			"config.markdown-mermaid.theme.vscode.description": "Chủ đề nàng tiên cá bắt nguồn từ chủ đề màu VS Code hiện tại.",
+			"config.markdown-mermaid.theme.base.description": "Chủ đề Nàng tiên cá tích hợp. Chủ đề Nàng tiên cá duy nhất có thể được tùy chỉnh bằng các biến chủ đề.",
+			"config.markdown-mermaid.theme.forest.description": "Chủ đề Nàng tiên cá tích hợp sử dụng sắc thái xanh lục.",
+			"config.markdown-mermaid.theme.dark.description": "Chủ đề Nàng tiên cá tích hợp cho nền tối.",
+			"config.markdown-mermaid.theme.default.description": "Chủ đề Nàng tiên cá tích hợp mặc định. Hoạt động tốt với nền sáng.",
+			"config.markdown-mermaid.theme.neutral.description": "Chủ đề Nàng tiên cá tích hợp sử dụng bảng màu xám trung tính. Thích hợp cho các bản in đen trắng.",
+			"config.markdown-mermaid.languages.description": "Ngôn ngữ mặc định trong Markdown.",
+			"config.markdown-mermaid.maxTextSize.description": "Kích thước tối đa được phép của sơ đồ văn bản của người dùng.",
+			"config.markdown-mermaid.mouseNavigation.enabled.description": "Kiểm soát thời điểm bật điều hướng dựa trên chuột trên sơ đồ Nàng tiên cá.",
+			"config.markdown-mermaid.mouseNavigation.enabled.always": "Luôn bật điều hướng chuột trên sơ đồ Nàng tiên cá.",
+			"config.markdown-mermaid.mouseNavigation.enabled.alt": "Chỉ kích hoạt điều hướng chuột khi giữ phím Alt (Tùy chọn trên macOS). Các cử chỉ như chụm để thu phóng vẫn hoạt động mà không cần Alt.",
+			"config.markdown-mermaid.mouseNavigation.enabled.never": "Vô hiệu hóa điều hướng chuột.",
+			"config.markdown-mermaid.controls.show.description": "Các điều khiển hiển thị các điều khiển UI trên sơ đồ Nàng tiên cá.",
+			"config.markdown-mermaid.controls.show.never": "Không bao giờ hiển thị điều khiển.",
+			"config.markdown-mermaid.controls.show.onHoverOrFocus": "Hiển thị các điều khiển thu phóng khi di chuột qua hoặc tập trung vào sơ đồ.",
+			"config.markdown-mermaid.controls.show.always": "Luôn hiển thị các điều khiển thu phóng.",
+			"config.markdown-mermaid.resizable.description": "Cho phép thay đổi kích thước sơ đồ theo chiều dọc bằng cách kéo cạnh dưới.",
+			"config.markdown-mermaid.maxHeight.markdownDescription": "Chiều cao tối đa cho sơ đồ. Phải là giá trị CSS có các đơn vị như `80vh` hoặc `400px`. Để trống để cố gắng tự động điều chỉnh kích thước sơ đồ dựa trên nội dung của chúng. Trong trình chỉnh sửa Markdown, giá trị pixel chỉ giới hạn chiều cao ban đầu của sơ đồ: nó vẫn có thể được thay đổi kích thước ngoài giá trị đó."
+		}
+	}
+}
