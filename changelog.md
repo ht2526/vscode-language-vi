@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1 — 2026-11-17
+
+- Sửa dấu tiếng Việt bị thay bằng `?` trong các mục Telemetry, Marketplace, Proxy và Pull Request.
+
 ## 1.1.0 — 2026-11-16
 
 - Tạo định danh cá nhân `hungthinh.hungthinhpack` và nhắm tới VS Code 1.146.0 trở lên.

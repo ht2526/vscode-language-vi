@@ -2841,7 +2841,7 @@
 			"resolveShellEnvTimeout": "Môi trường shell của bạn không thể được phân giải trong một khoảng thời gian hợp lý. Vui lòng kiểm tra cấu hình shell của bạn và khởi động lại."
 		},
 		"vs/platform/telemetry/common/telemetryLogAppender": {
-			"telemetryLog": "D? li?u ?o t? xa{0}"
+			"telemetryLog": "Dữ liệu đo từ xa{0}"
 		},
 		"vs/platform/telemetry/common/telemetryService": {
 			"enableTelemetryDeprecated": "Nếu cài đặt này là FALSE, sẽ không có dữ liệu telemetry nào được gửi bất kể giá trị của cài đặt mới. Đã lỗi thời, ủng hộ cài đặt {0}.",
@@ -10514,7 +10514,7 @@
 			"installed": "Đã cài đặt",
 			"learnMore": "Thông tin thêm",
 			"malicious warning": "Tiện ích mở rộng \"{0}\" đã bị đánh dấu là có vấn đề và đã bị gỡ cài đặt.",
-			"marketPlace": "Ch? ti?n ?ch",
+			"marketPlace": "Chợ tiện ích",
 			"open user settings": "Mở cài đặt người dùng",
 			"otherRecommendedExtensions": "Đề xuất thêm",
 			"popularExtensions": "Phổ biến",
@@ -13912,7 +13912,7 @@
 			"other": "Khác",
 			"output": "Đầu ra",
 			"problems": "Sự cố",
-			"proxy": "M?y ch? proxy",
+			"proxy": "Máy chủ proxy",
 			"remote": "Từ xa",
 			"scm": "Quản lý mã nguồn",
 			"screencastMode": "Chế độ Screencast",
@@ -16869,7 +16869,7 @@
 			"method": "Phương thức",
 			"option": "Option",
 			"optionValue": "Giá trị tùy chọn",
-			"pullRequest": "Y?u c?u k?o",
+			"pullRequest": "Yêu cầu kéo",
 			"pullRequestDone": "Pull Request (Hoàn thành)",
 			"remote": "Từ xa",
 			"stash": "Stash",

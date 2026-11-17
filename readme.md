@@ -13,7 +13,7 @@ Gói ngôn ngữ cá nhân dựa trên DMCTN Vietnamese Language Pack, được 
 
 1. Mở VS Code.
 2. Mở Command Palette bằng `Ctrl+Shift+P`.
-3. Chọn `Extensions: Install from VSIX...` và mở `hungthinhpack-1.1.0.vsix`.
+3. Chọn `Extensions: Install from VSIX...` và mở `hungthinhpack-1.1.1.vsix`.
 4. Chạy `Configure Display Language`.
 5. Chọn `Tiếng Việt` rồi khởi động lại VS Code.
 
